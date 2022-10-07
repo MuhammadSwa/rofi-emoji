@@ -1932,7 +1932,6 @@
 🇮🇨	Flags	country-flag	flag: Canary Islands	flag
 🇮🇩	Flags	country-flag	flag: Indonesia	flag
 🇮🇪	Flags	country-flag	flag: Ireland	flag
-🇮🇱	Flags	country-flag	flag: Israel	flag
 🇮🇲	Flags	country-flag	flag: Isle of Man	flag
 🇮🇳	Flags	country-flag	flag: India	flag
 🇮🇴	Flags	country-flag	flag: British Indian Ocean Territory	flag
@@ -2012,7 +2011,7 @@
 🇵🇲	Flags	country-flag	flag: St. Pierre & Miquelon	flag
 🇵🇳	Flags	country-flag	flag: Pitcairn Islands	flag
 🇵🇷	Flags	country-flag	flag: Puerto Rico	flag
-🇵🇸	Flags	country-flag	flag: Palestinian Territories	flag
+🇵🇸	Flags	country-flag	flag: Palestinian 	flag
 🇵🇹	Flags	country-flag	flag: Portugal	flag
 🇵🇼	Flags	country-flag	flag: Palau	flag
 🇵🇾	Flags	country-flag	flag: Paraguay	flag
