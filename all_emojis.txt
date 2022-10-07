@@ -2011,7 +2011,7 @@
 🇵🇲	Flags	country-flag	flag: St. Pierre & Miquelon	flag
 🇵🇳	Flags	country-flag	flag: Pitcairn Islands	flag
 🇵🇷	Flags	country-flag	flag: Puerto Rico	flag
-🇵🇸	Flags	country-flag	flag: Palestinian 	flag
+🇵🇸	Flags	country-flag	flag: Palestine		flag
 🇵🇹	Flags	country-flag	flag: Portugal	flag
 🇵🇼	Flags	country-flag	flag: Palau	flag
 🇵🇾	Flags	country-flag	flag: Paraguay	flag
