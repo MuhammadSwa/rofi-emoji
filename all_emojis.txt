@@ -1580,7 +1580,7 @@
 🔝	Symbols	arrow	TOP arrow	arrow | TOP | up
 🛐	Symbols	religion	place of worship	place of worship | religion | worship
 ⚛️	Symbols	religion	atom symbol	
-⚛	Symbols	religion	atom symbol	atheist | atom | atom symbol
+⚛	Symbols	religion	atom | atom | atom symbol
 🕉️	Symbols	religion	om	
 🕉	Symbols	religion	om	Hindu | om | religion
 ✡️	Symbols	religion	star of David	
